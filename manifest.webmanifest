@@ -1,0 +1,22 @@
+{
+  "name": "Reloading Inventory Vault",
+  "short_name": "Inventory Vault",
+  "description": "Offline, encrypted components and loaded ammunition inventory",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f1f5f7",
+  "theme_color": "#183448",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
